@@ -1,0 +1,22 @@
+.btn-success ,.bg-success{
+  background: linear-gradient(45deg,black,limegreen);
+}
+
+.btn-warning, .bg-warning{
+  background: linear-gradient(45deg,black,orange);
+}
+
+.btn-danger, .bg-danger{
+  background: linear-gradient(45deg,red,black);
+}
+
+.bg-primary{
+  background: linear-gradient(45deg,black,blueviolet);
+}
+.bg-secondary{
+  background: linear-gradient(45deg,yellow,rgb(59, 10, 29));
+}
+
+.table tbody tr td{
+  font-weight: bold;
+}
